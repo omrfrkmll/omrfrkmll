@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NOWHERE<br>👯 I’m looking to collaborate on engineering stuff<br>🤝 I’m looking for help with MARLIN firmware<br>🌱 I’m currently learning MARLIN firmware<br>💬 Ask me about web design inspiration, mechatronic engineering stuff, UI design, video editing etc.<br>⚡ MOAE IGUSSUL
+🔭 I’m currently working on NOWHERE<br>👯 I’m looking to collaborate on engineering stuff<br>🤝 I’m looking for help with Robotics<br>🌱 I’m currently learning Robotics<br>💬 Ask me about web design inspiration, mechatronic engineering stuff, UI design, video editing etc.<br>⚡ MOAE IGUSSUL
 
 
 ## 🌐 Socials:
