@@ -1,18 +1,60 @@
-# 💫 About Me:
-🔭 I’m currently working on NOWHERE<br>👯 I’m looking to collaborate on engineering stuff<br>🤝 I’m looking for help with Robotics<br>🌱 I’m currently learning Robotics<br>💬 Ask me about web design inspiration, mechatronic engineering stuff, UI design, video editing etc.<br>⚡ MOAE IGUSSUL
+# 👋 Hi, I'm Ömer Faruk  
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omrfrkmll) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omrfrkmll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omrrfkmll) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/omrfrkmll) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+🎓 **Mechatronics Engineer** passionate about **Robotics**, **Embedded Systems**, and **Autonomous Technologies**.  
+🤖 Currently developing an **autonomous mobile robot** using **ROS2**.  
+💻 Experienced in **microcontrollers** (ESP32, ESP8266, STM32) and **AI-powered robotics**.  
+🧠 Skilled in **C++** and **Python**, with a focus on intelligent, modular, and efficient system design.  
+⚙️ I usually develop in **VS Code** and leverage **AI-assisted workflows** for faster iteration.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omrfrkmll&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-omrfrkmll/omrfrkmll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 What I’m Working On
+
+- 🤖 **Autonomous Mobile Robots** (ROS2, SLAM, Navigation, Lidar)
+- 🔌 **Embedded Systems Development** (ESP32, ESP8266, STM32)
+- 🧩 **AI & Computer Vision** (OpenCV, TensorFlow, PyTorch)
+- 🖥️ **Mechanical Design & CAD Modeling** (Autodesk Inventor, Fusion 360, SolidWorks)
+- 🔋 **Electronics & PCB Design** (KiCad)
+- 🌐 **Web Development Experiments** (React, Node.js, REST APIs)
+
+---
+
+### 🧰 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
+![Inventor](https://img.shields.io/badge/Autodesk%20Inventor-E1600A?logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FD7E14?logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E41C24?logo=dassaultsystemes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D7?logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+### 📂 Featured Projects  
+>
+> Most of my projects are developed for private companies and are not open-source.  
+> However, I’m always open to **collaborations** and **contributing** to the open-source community.  
+
+🧩 *Coming soon... exciting projects will be shared here!*  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omrfrkmll&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omrfrkmll&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me  
+
+📫 **Email:** [omrfrkmll@gmail.com](mailto:omrfrkmll@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/omrfrkmll](https://www.linkedin.com/in/omrfrkmll)
+
+> “Where mechanics, electronics, and intelligence meet — that’s where real robotics begins.”
+<!--LAST_UPDATED-->Last updated: October 25, 2025<!--END_LAST_UPDATED-->
