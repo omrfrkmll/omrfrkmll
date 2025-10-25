@@ -1,0 +1,26 @@
+name: Update Last Updated Date
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs every day at midnight UTC
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update last updated date
+        run: |
+          current_date=$(date +"%B %d, %Y")
+          sed -i "s|<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->|<!--LAST_UPDATED-->Last updated: ${current_date}<!--END_LAST_UPDATED-->|" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update last updated date"
+          git push
