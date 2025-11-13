@@ -10,7 +10,7 @@
 
 ### 🚀 What I’m Working On
 
-- 🤖 **Autonomous Mobile Robots** (ROS2, SLAM, Navigation, Lidar)
+- 🤖 **Autonomous Mobile Robots** (Jetson, ROS2, SLAM, Navigation, Realsense, Slamtec Lidar)
 - 🔌 **Embedded Systems Development** (ESP32, ESP8266, STM32)
 - 🧩 **AI & Computer Vision** (OpenCV, TensorFlow, PyTorch)
 - 🖥️ **Mechanical Design & CAD Modeling** (Autodesk Inventor, Fusion 360, SolidWorks)
