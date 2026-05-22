@@ -44,13 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omrfrkmll&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omrfrkmll&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect with Me  
 
 📫 **Email:** [omrfrkmll@gmail.com](mailto:omrfrkmll@gmail.com)  
