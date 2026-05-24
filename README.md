@@ -50,4 +50,4 @@
 💼 **LinkedIn:** [linkedin.com/in/omrfrkmll](https://www.linkedin.com/in/omrfrkmll)
 
 > “Where mechanics, electronics, and intelligence meet — that’s where real robotics begins.”
-<!--LAST_UPDATED-->Last updated: May 23, 2026<!--END_LAST_UPDATED-->
+<!--LAST_UPDATED-->Last updated: May 24, 2026<!--END_LAST_UPDATED-->
