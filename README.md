@@ -51,20 +51,13 @@ That's why I like working across the stack — **from the physical machine to th
 
 ## 🔬 Things I've Built
 
-### 🤖 Autonomous Robotics
 
 * **[KUKA-ROS2](https://github.com/omrfrkmll/KUKA-ROS2)** — ROS 2 Humble integration for KUKA robots
 * **[ilteray_laser_filters](https://github.com/omrfrkmll/ilteray_laser_filters)** — ROS 2 laser processing tools
 * **[navigation2_ignition_gazebo_turtlebot3_multi](https://github.com/omrfrkmll/navigation2_ignition_gazebo_turtlebot3_multi)** — Multi-robot navigation experiments with Nav2 and Gazebo
 * **[behavior-tree-viewer-extention](https://github.com/omrfrkmll/behavior-tree-viewer-extention)** — Behavior Tree visualization tooling
-
-### 🔌 Embedded & Robotics Hardware
-
 * **[CANBUS-Stepper](https://github.com/omrfrkmll/CANBUS-Stepper)** — Open-source closed-loop CAN bus stepper motor controller based on ESP32-S3
 * **[Import-LIB-KiCad-Plugin](https://github.com/omrfrkmll/Import-LIB-KiCad-Plugin)** — KiCad component library import tooling
-
-### 🦾 Robotics & Experimental Systems
-
 * **[Mecanum-Wheeled-Human-Motion-Tracking-System](https://github.com/omrfrkmll/Mecanum-Wheeled-Human-Motion-Tracking-System)** — Human motion tracking with a mecanum robot
 
 ---
